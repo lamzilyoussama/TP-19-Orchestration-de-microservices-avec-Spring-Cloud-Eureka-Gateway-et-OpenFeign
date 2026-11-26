@@ -1,0 +1,35 @@
+# TP 19 : Orchestration de microservices avec Spring Cloud Eureka, Gateway et OpenFeign
+
+Ce projet présente l'orchestration et la communication entre microservices en utilisant l'écosystème **Spring Cloud** :
+- **Spring Cloud Netflix Eureka** pour la découverte et l'enregistrement dynamique des services (Service Discovery).
+- **Spring Cloud Gateway** pour le routage des requêtes, le filtrage et la gestion des passerelles API.
+- **OpenFeign** pour les appels HTTP déclaratifs entre microservices.
+
+---
+
+## 👤 Informations Personnelles
+
+- **Nom & Prénom :** Oussama Lamzily
+- **Filière :** Ingénierie Informatique & Réseaux (4IIR)
+- **Email :** lamzilyoussama@gmail.com
+- **GitHub :** [lamzilyoussama](https://github.com/lamzilyoussama)
+
+---
+
+## 🏗️ Structure du Projet
+
+- **TP19 Client** : Microservice client développé avec Spring Boot, intégrant la découverte de service Eureka et la communication inter-services.
+- **TP19 GateWay** : API Gateway basée sur Spring Cloud Gateway et Spring Cloud LoadBalancer pour router et équilibrer le trafic vers les microservices.
+
+---
+
+## 🚀 Démonstration et Captures d'écran
+
+https://github.com/user-attachments/assets/86851048-ba54-4fc9-9e94-c0387d4bd5b9
+
+https://github.com/user-attachments/assets/27e80a49-9af1-4ebe-8c7e-d1cece09860f
+
+<img width="960" height="540" alt="1" src="https://github.com/user-attachments/assets/4158f038-d71d-41d2-8586-9990118020df" />
+<img width="960" height="540" alt="2" src="https://github.com/user-attachments/assets/1bb6445d-fbfa-4630-bfdd-407269829371" />
+
+https://github.com/user-attachments/assets/db5273a3-ec40-4439-bab0-1dfd1fe631b4
